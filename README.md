@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salmaelbarbori
-- 👀 I’m interested in Problem solving|web developemet|Data Science
-- 🌱 I have just graduated with a Bachelor degree in computer engineering from FSTS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Problem solving|Data Science|Programming with C/C++/Python
+- 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat
+- 💞️ I’m looking to collaborate on Python, SQL, Data visualisatio...
 - 📫 How to reach me @salmaelbarbori@gmail.com
 
 <!---
