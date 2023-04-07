@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salmaelbarbori
-- 👀 I’m interested in Problem solving|Data Science|Programming with C/C++/Python
+- 👀 I’m interested in Problem solving | Data Structures | Competitive Programming |Data Science|Programming with C/C++/Python
 - 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat
-- 💞️ I’m looking to collaborate on C++, Python, SQL, Data visualisation, ML, AI, DL...
+- 💞️ I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...
 - 📫 How to reach me @salmaelbarbori@gmail.com
 
 <!---
