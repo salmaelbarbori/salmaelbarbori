@@ -9,7 +9,7 @@ salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Connect<h2>
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only)
