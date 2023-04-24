@@ -4,11 +4,11 @@
 
 <h1> Who Am I? </h1>
 <div id = "aboutme">
-<p>- 👋 Hi, I’m @salmaelbarbori</p></br>
-- 👀 I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP 
-- 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat
-- 💞️ I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...
-- 📫 How to reach me @salmaelbarbori@gmail.com
+<p>- 👋 Hi, I’m @salmaelbarbori</p>
+<p>- 👀 I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP</p>
+<p>- 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat</p>
+<p>- 💞️ I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...</p>
+<p>- 📫 How to reach me @salmaelbarbori@gmail.com</p>
 </div>
 <!---
 salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
