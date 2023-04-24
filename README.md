@@ -12,7 +12,7 @@
 </div>
 <h1>How to contact me? </h1>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
