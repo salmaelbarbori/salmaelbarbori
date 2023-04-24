@@ -9,6 +9,8 @@ salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Github Statistics</h1>
+
+<!--- another section --->
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only)
