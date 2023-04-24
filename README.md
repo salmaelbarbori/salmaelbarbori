@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" width="100"/>
+</div>
+
+<h1> Who Am I? </h1>
 - 👋 Hi, I’m @salmaelbarbori
 - 👀 I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP 
 - 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat
@@ -10,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Github Statistics</h1>
 <h1>Stats</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaelbarbori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--- another section --->
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
