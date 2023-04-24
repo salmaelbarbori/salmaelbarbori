@@ -8,10 +8,9 @@
 salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Reach out</h1>
-![](https://img.shields.io/badge/Linkedin-text-0A66C2?style=for-the-badges&logo=Linkedin)
 <h1>Github Statistics</h1>
-
+<h1>Stats</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--- another section --->
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
