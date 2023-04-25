@@ -67,8 +67,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div>
 <h1 align = "center">Favorite Quote</h1>
- <p>“Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
-~ Josh Wills, data scientist and engineer</p>
+ <p>
+    > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+~ Josh Wills, data scientist and engineer
+  </p>
 </div>
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
