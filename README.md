@@ -38,7 +38,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="canva" width="40" height="40"/>&nbsp;
   
 </div>
-<h1 align = "center">Where do I spend my time? </h1>
+<h1 align = "center"> :mag_right: Where do I spend my time? </h1>
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <!--- another section --->
 <div>
   <h1 align = "center">:fire: My Github Statistics </h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200" margin-left = "500px"/>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200"/>&nbsp;
   </br>
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" title="statistics"      alt="stats" width="500" height="200" />&nbsp;
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" title="statistics"  alt="stats" width="500" height="200" />&nbsp;
