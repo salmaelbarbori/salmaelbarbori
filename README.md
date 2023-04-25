@@ -67,5 +67,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div>
 <h1 align = "center">Favorite Quote</h1>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+ <p>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</p>
 </div>
