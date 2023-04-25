@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <!--- another section --->
 <div>
   <h1 align = "center">:fire: My Github Statistics </h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="CANVA" alt="canva" width="200" height="200"/>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="600" height="300"/>&nbsp;
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark)](https://git.io/streak-stats)
   ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
