@@ -72,5 +72,3 @@ You can click the Preview link to take a look at your changes.
 ~ Josh Wills, data scientist and engineer
   </p>
 </div>
-  <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=dark" title="statistics" alt="stats" width="500" height="200"/>
-![Github Stars](https://github-readme-stats.vercel.app/api?username=Bratet&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)
