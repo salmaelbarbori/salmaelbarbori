@@ -65,3 +65,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" title="statistics"      alt="stats" width="500" height="200" />&nbsp;
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" title="statistics"  alt="stats" width="500" height="200" />&nbsp;
 </div>
+<div>
+<h1 align = "center">Favorite Quote</h1>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
