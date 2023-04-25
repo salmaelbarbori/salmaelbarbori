@@ -72,5 +72,5 @@ You can click the Preview link to take a look at your changes.
 ~ Josh Wills, data scientist and engineer
   </p>
 </div>
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+  <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=dark" title="statistics" alt="stats" width="500" height="200"/>
 
