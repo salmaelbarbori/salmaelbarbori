@@ -18,8 +18,8 @@
 <p>- 📫 How to reach me:  @salmaelbarbori@gmail.com
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>|  <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a> <strong>|</strong>  <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a></p>
 </div>
 <h1 align = "center">Where do I spend my time? </h1>
