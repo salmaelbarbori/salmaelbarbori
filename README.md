@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h1 align = "center">:fire: My Github Statistics </h1>
   <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200" />&nbsp;
+  </br>
   <img align = "center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" title="statistics"      alt="stats" width="500" height="200" />&nbsp;
   <img align = "center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" title="statistics"  alt="stats" width="500" height="200" />&nbsp;
 </div>
