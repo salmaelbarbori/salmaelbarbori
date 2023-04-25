@@ -15,7 +15,9 @@
 <p>- :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP</p>
 <p>- 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat</p>
 <p>- :zap: I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...</p>
-<p>- 📫 How to reach me:  @salmaelbarbori@gmail.com</p> | [![Linkedin Badge](https://img.shields.io/badge/-salmaelbarbori-blue?style=flat&logo=Linkedin&logoColor=white)](https://ma.linkedin.com/in/salma-el-barbori/en)</p>
+<p>- 📫 How to reach me:  @salmaelbarbori@gmail.com</p> |  <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></p>
 </div>
 <h1 align = "center">Where do I spend my time? </h1>
 <div id="badges">
