@@ -61,9 +61,8 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h1 align = "center">:fire: My Github Statistics </h1>
   <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200" />&nbsp;
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark)](https://git.io/streak-stats)
-  ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
+  <img align = "center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" title="statistics" alt="stats" width="500" height="200" />&nbsp;
+  <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200" />&nbsp;
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-light-mode-only)
 
