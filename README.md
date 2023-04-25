@@ -10,19 +10,19 @@
 <p>- 💞️ I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...</p>
 <p>- 📫 How to reach me @salmaelbarbori@gmail.com</p>
 </div>
-<h1>How to contact me? </h1>
+<h1>Where do I spend my time? </h1>
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/salmaelbarbori">
+   <img src="https://img.shields.io/badge/CodeForces-yellow?style=for-the-badge&logo=CodeForces&logoColor=white" alt="CodeForces Badge"/>
   </a>
   <a href="https://www.kaggle.com/saelbar">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://leetcode.com/elbarborisalma/">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://codeforces.com/profile/salmaelbarbori">
-   <img src="https://img.shields.io/badge/CodeForces-yellow?style=for-the-badge&logo=CodeForces&logoColor=white" alt="CodeForces Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
 <!---
