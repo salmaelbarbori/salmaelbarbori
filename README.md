@@ -16,10 +16,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/saelbar">
-    <img src="https://img.shields.io/badge/Kaggle-aqua?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://leetcode.com/elbarborisalma/">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/salmaelbarbori">
+   <img src="https://img.shields.io/badge/CodeForces-yellow?style=for-the-badge&logo=CodeForces&logoColor=white" alt="CodeForces Badge"/>
   </a>
 </div>
 <!---
