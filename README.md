@@ -22,6 +22,11 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a></p>
 </div>
+<h1 align="center">:hammer_and_wrench: Languages and Tools :</h1>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
 <h1 align = "center">Where do I spend my time? </h1>
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
