@@ -56,10 +56,11 @@
 <!---
 salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<h1 align = "center">Github Statistics</h1>
+
 <!--- another section --->
 <div>
+  <h1 align = "center">:fire: My Github Statistics </h1>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark&background=000000)](https://git.io/streak-stats)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only)
