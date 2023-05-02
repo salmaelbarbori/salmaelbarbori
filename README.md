@@ -62,6 +62,15 @@ You can click the Preview link to take a look at your changes.
   <h1 align = "center">:fire: My Github Statistics </h1>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200"/>&nbsp;
   </br>
+  <p>|</p>
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-light-mode-only" title="statistics" alt="stats" width="500" height="200" />&nbsp;
+  <p>|</p>
   <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-light-mode-only" title="statistics"  alt="stats" width="500" height="200" />&nbsp;
+</div>
+<div>
+<h1 align = "center">Favorite Quote</h1>
+ <p>
+    > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+~ Josh Wills, data scientist and engineer
+  </p>
 </div>
