@@ -13,7 +13,7 @@
 <div id = "aboutme">
 <p>- 👋 Hi, I’m @salmaelbarbori</p>
 <p>- :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP</p>
-<p>- 🌱 1st year Master degree in Strategic and Competitive Intelligence ESI-Rabat</p>
+<p>- 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat</p>
 <p>- :zap: I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...</p>
 <p>- 📫 How to reach me:  @salmaelbarbori@gmail.com
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
