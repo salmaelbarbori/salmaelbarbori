@@ -10,7 +10,7 @@
 </section>
 </br>
 
-### :woman_technologist: Who Am I? 
+### Who Am I ? :woman_technologist: 
 ---
 - 👋 Hi, I’m @salmaelbarbori
 - :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP
@@ -20,7 +20,7 @@
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :  :hammer_and_wrench:
 ---
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@
  </div>
  
  <!--- another section --->
-### :mag_right: Find me around the web?
+###  Find me around the web ? :mag_right: 
 ---
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
@@ -69,13 +69,12 @@ You can click the Preview link to take a look at your changes. --->
 
 <!--- another section --->
 
-### :fire: My Github Statistics 📈
+### My Github Statistics 📈
 ---
 | <a href="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" alt="SalmaELBARBRI's github stats" /></a> | <a href="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" /></a> |
 | ------------- | ------------- | 
-### Favorite Quote
+### Favorite Quote : :book:
 ---
 > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
     
 — Josh Wills, data scientist and engineer.
-
