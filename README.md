@@ -74,5 +74,6 @@ You can click the Preview link to take a look at your changes.
 ### Favorite Quote
 ---
 > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
-~ Josh Wills, data scientist and engineer
+    
+— Josh Wills, data scientist and engineer.
 
