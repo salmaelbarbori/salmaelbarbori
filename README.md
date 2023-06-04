@@ -1,4 +1,4 @@
-# Hi, Salma here 👋
+## Hi, Salma here 👋
 <section align = "center">
 <a href="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif">
     <img src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" alt="Image_readme1"  width = "500px" height = "250px"/>
@@ -9,8 +9,9 @@
 </a>
 </section>
 </br>
----
+
 ### :woman_technologist: Who Am I? 
+---
 - 👋 Hi, I’m @salmaelbarbori
 - :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP
 - 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
@@ -18,9 +19,9 @@
 - 📫 How to reach me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
+
+### :hammer_and_wrench: Languages and Tools :
 ---
-### Languages and Tools
-- :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
@@ -44,8 +45,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="canva" width="40" height="40"/>&nbsp;
  <!--- another section --->
----
 ### :mag_right: Find me around the web?
+---
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -65,13 +66,13 @@ salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 
 <!--- another section --->
----
+
 ### :fire: My Github Statistics 📈
+---
 | <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" alt="SalmaELBARBRI's github stats" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" /></a> |
-| ------------- | ------------- |
----  
+| ------------- | ------------- | 
 ### Favorite Quote
-```python
-    > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+---
+> “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
 ~ Josh Wills, data scientist and engineer
-```
+
