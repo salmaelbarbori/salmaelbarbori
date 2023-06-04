@@ -1,28 +1,26 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" width="400" height = "200"/></br>
-  <img src="https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue" alt="" width="200"/></br>
-  <h1>
-  Hi, Salma here
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
- <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="300"/> 
-</div>
-<h1 align = "center">:woman_technologist: Who Am I? </h1>
-<div id = "aboutme">
-<p>- 👋 Hi, I’m @salmaelbarbori</p>
-<p>- :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP</p>
-<p>- 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat</p>
-<p>- :zap: I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...</p>
-<p>- 📫 How to reach me: 
+---
+![alt text](https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif)
+---
+![alt text](https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue)
+---
+### Hi, Salma here
+![alt text](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+---
+![alt text](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)
+### :woman_technologist: Who Am I? 
+- 👋 Hi, I’m @salmaelbarbori
+- :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP
+- 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
+- :zap: I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...
+- 📫 How to reach me: 
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <strong>|</strong>  <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a></p>
-</div>
-<h1 align="center">:hammer_and_wrench: Languages and Tools :</h1>
+---
+### Languages and Tools
+- :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
@@ -46,8 +44,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="canva" width="40" height="40"/>&nbsp;
   
-</div>
-<h1 align = "center"> :mag_right: Find me around the web? </h1>
+---
+### :mag_right: Find me around the web?
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -67,22 +65,14 @@ salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 
 <!--- another section --->
-<div>
-  <h1 align = "center">:fire: My Github Statistics </h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark" title="statistics" alt="stats" width="500" height="200"/>&nbsp;
-  </br>
-  <p>|</p>
-  <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" title="statistics" alt="stats" width="500" height="200" />&nbsp;
-  <p>|</p>
-  <img src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" title="statistics"  alt="stats" width="500" height="200" />&nbsp;
-</div>
-<div>
-  
-<h1 align = "center">Favorite Quote</h1>
-
-<p>
+---
+### :fire: My Github Statistics
+  ![alt text]("https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark")
+  ![alt text]("https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only") 
+  ![alt text]("https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only")
+---  
+### Favorite Quote
+```python
     > “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
 ~ Josh Wills, data scientist and engineer
-
-</p>
-</div>
+```
