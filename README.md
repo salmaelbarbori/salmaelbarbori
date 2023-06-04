@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes. --->
 
 ### :fire: My Github Statistics 📈
 ---
-| <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" alt="SalmaELBARBRI's github stats" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" /></a> |
+| <a href="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" alt="SalmaELBARBRI's github stats" /></a> | <a href="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" /></a> |
 | ------------- | ------------- | 
 ### Favorite Quote
 ---
