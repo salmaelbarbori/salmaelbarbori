@@ -44,6 +44,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="TRELLO" alt="trello" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="canva" width="40" height="40"/>&nbsp;
+ </div>
+ 
  <!--- another section --->
 ### :mag_right: Find me around the web?
 ---
@@ -63,7 +65,7 @@
 </div>
 <!---
 salmaelbarbori/salmaelbarbori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. --->
 
 <!--- another section --->
 
