@@ -1,23 +1,23 @@
+# Hi, Salma here 👋
+<section align = "center">
+<a href="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif">
+    <img src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" alt="Image_readme1"  width = "500px" height = "250px"/>
+</a>
+</br>
+<a href="https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue">
+    <img align = "center" src="https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue" alt="Image_readme2"  width = "100px" height = "30px"/>
+</a>
+</section>
+</br>
 ---
-![alt text](https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif)
----
-![alt text](https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue)
----
-### Hi, Salma here
-![alt text](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
----
-![alt text](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)
 ### :woman_technologist: Who Am I? 
 - 👋 Hi, I’m @salmaelbarbori
 - :telescope: I’m interested in Problem solving | Data Structures | Competitive Programming | Data Analytics | Machine Learning | NLP
 - 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
 - :zap: I’m looking to collaborate on JAVA, C++, Python, SQL, Data visualisation, ML, AI, DL...
 - 📫 How to reach me: 
-  <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> <strong>|</strong>  <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a></p>
+| <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
+  <!--- another section --->
 ---
 ### Languages and Tools
 - :hammer_and_wrench: Languages and Tools :
@@ -43,7 +43,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="TRELLO" alt="trello" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" alt="canva" width="40" height="40"/>&nbsp;
-  
+ <!--- another section --->
 ---
 ### :mag_right: Find me around the web?
 <div id="badges">
@@ -66,10 +66,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- another section --->
 ---
-### :fire: My Github Statistics
-  ![alt text]("https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark")
-  ![alt text]("https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only") 
-  ![alt text]("https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only")
+### :fire: My Github Statistics 📈
+| <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/overview.svg#gh-dark-mode-only" alt="SalmaELBARBRI's github stats" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com?user=salmaelbarbori&theme=dark"><img align="center" src="https://raw.githubusercontent.com/salmaelbarbori/githubstats/master/generated/languages.svg#gh-dark-mode-only" /></a> |
+| ------------- | ------------- |
 ---  
 ### Favorite Quote
 ```python
