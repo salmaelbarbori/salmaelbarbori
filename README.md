@@ -75,6 +75,4 @@ You can click the Preview link to take a look at your changes. --->
 | ------------- | ------------- | 
 ### Favorite Quote : :book:
 ---
-> “Data scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
-    
-— Josh Wills, data scientist and engineer.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://subhajitsdev.github.io/Random-Quotes/)
