@@ -75,4 +75,4 @@ You can click the Preview link to take a look at your changes. --->
 | ------------- | ------------- | 
 ### Favorite Quote : :book:
 ---
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://subhajitsdev.github.io/Random-Quotes/)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
