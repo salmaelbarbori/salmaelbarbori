@@ -13,11 +13,12 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 Hi, I’m @salmaelbarbori
--  🔭 Currently looking for a summer internship in Data Science/Engineering from Mid-July to September, Remotly 
+-  🔭 Currently looking for a summer internship in Data Analyst/Science/Engineering or BI engineering from Mid-July to September, Remotly.
 - :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Data Analysis | Problem solving | Data Structures | Competitive Programming | Software Engineering  
-- 🌱 1st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
+- 🌱 2st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
 - :book: Trainee at Manara.tech (Focusing on software engineering).
 - :book: Trainee at World Quant University - Data Science Lab.
+- :book: Trainee at ArabiaForce Academy - Salesforce Administrator.
 - :zap: I’m looking to collaborate on Machine Learning, Data Engineering and NLP  projects, Reading Research Papers related to ML | AI and Ethics
 - 📫 How to reach me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
