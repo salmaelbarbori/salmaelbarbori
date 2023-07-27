@@ -13,7 +13,6 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 Hi, I’m @salmaelbarbori
--  🔭 Currently looking for a summer internship in Data Analysis/Science/Engineering or BI engineering from Mid-July to September, Remotly.
 - :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Data Analysis | Problem solving | Data Structures | Competitive Programming | Software Engineering  
 - 🌱 2st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
 - :book: Trainee at Manara.tech (Focusing on software engineering).
