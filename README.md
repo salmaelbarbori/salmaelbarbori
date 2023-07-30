@@ -14,16 +14,17 @@
 ---
 - 👋 Hi, I’m @salmaelbarbori
 - :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Data Analysis | Problem solving | Data Structures | Competitive Programming | Software Engineering  
-- 🌱 2st year Specialized Master degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
+- :hammer_and_wrench: Data Analyst Intern at @Diametry | Paris
+- 🌱 2nd-year Specialized Master's degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
 - :book: Trainee at Manara.tech (Focusing on software engineering).
 - :book: Trainee at World Quant University - Data Science Lab.
 - :book: Trainee at ArabiaForce Academy - Salesforce Administrator.
-- :zap: I’m looking to collaborate on Machine Learning, Data Engineering and NLP  projects, Reading Research Papers related to ML | AI and Ethics
+- :zap: I’m looking to collaborate on Machine Learning, Data Engineering, and NLP  projects, Reading Research Papers related to ML | AI and Ethics
 - 📫 How to reach me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
 
-### Languages and Tools :  :hammer_and_wrench:
+### Languages and Tools:  :hammer_and_wrench:
 ---
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
