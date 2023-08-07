@@ -1,25 +1,10 @@
-## Hi, Salma here 👋
-<section align = "center">
-<a href="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif">
-    <img src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif" alt="Image_readme1"  width = "500px" height = "250px"/>
-</a>
-</br>
-<a href="https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue">
-    <img align = "center" src="https://komarev.com/ghpvc/?username=salmaelbarbori&style=flat-square&color=blue" alt="Image_readme2"  width = "100px" height = "30px"/>
-</a>
-</section>
-</br>
-
 ### Who Am I ? :woman_technologist: 
 ---
-- 👋 Hi, I’m @salmaelbarbori
-- :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Data Analysis | Problem solving | Data Structures | Competitive Programming | Software Engineering  
+- 👋 I’m @salmaelbarbori
+- :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Problem-solving | Algorithms 
 - :hammer_and_wrench: Data Analyst Intern at @Diametry | Paris
-- 🌱 2nd-year Specialized Master's degree student majoring in Strategic and Competitive Intelligence at ESI-Rabat
-- :book: Trainee at Manara.tech (Focusing on software engineering).
-- :book: Trainee at World Quant University - Data Science Lab.
-- :book: Trainee at ArabiaForce Academy - Salesforce Administrator.
-- :zap: I’m looking to collaborate on Machine Learning, Data Engineering, and NLP  projects, Reading Research Papers related to ML | AI and Ethics
+- 🌱 Graduate student majoring in Strategic Intelligence at @ESI | Rabat
+- :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, and NLP.
 - 📫 How to reach me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
