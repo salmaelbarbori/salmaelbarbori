@@ -1,10 +1,10 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 I’m @salmaelbarbori
-- :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Problem-solving | Algorithms 
-- :hammer_and_wrench: Data Analyst Intern at @Diametry | Paris
-- 🌱 Graduate student majoring in Strategic Intelligence at @ESI | Rabat
-- :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, and NLP.
+- :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Problem-solving | Algorithms | CRM.
+- :hammer_and_wrench: Data Analyst Intern at @Diametry | Paris.
+- 🌱 Graduate student majoring in Strategic Intelligence at @ESI | Rabat.
+- :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, CRM, and NLP.
 - 📫 How to reach me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
