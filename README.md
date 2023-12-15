@@ -2,7 +2,8 @@
 ---
 - 👋 I’m @salmaelbarbori
 - :hammer_and_wrench: I'm open to PFE opportunities from February 2024, for a 6-month duration.
-- :telescope: I’m interested in  Machine Learning | NLP | AI | Data Engineering | Problem-solving | Algorithms | CRM.
+- Head of Data/AI @CODE ESI.
+- :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms | CRM.
 - 🌱 Graduate student majoring in Strategic Intelligence at @ESI | Rabat.
 - :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, CRM, and NLP.
 - 📫 How to reach me: 
