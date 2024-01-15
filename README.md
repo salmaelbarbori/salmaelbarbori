@@ -1,12 +1,12 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 I’m @salmaelbarbori
-- :hammer_and_wrench: I'm open to PFE opportunities from February 2024, for a 6-month duration.
-- Head of Data/AI @CODE ESI.
+- :hammer_and_wrench: I'm open to job opportunities starting from July  2024 in Data Science, ML, NLP, and Gen AI.
 - :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms | CRM.
-- 🌱 Graduate student majoring in Strategic Intelligence at @ESI | Rabat.
+- :hammer_and_wrench: Head of Data/AI @CODE ESI.
+- 🌱 MSc Candidate in Competitive and Strategic Intelligence at @ESI | Rabat.
 - :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, CRM, and NLP.
-- 📫 How to reach me: 
+- 📫 Contact me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
 
@@ -37,7 +37,7 @@
  </div>
  
  <!--- another section --->
-###  Find me around the web ? :mag_right: 
+###  Find me around the web? :mag_right: 
 ---
 <div id="badges">
   <a href="https://ma.linkedin.com/in/salma-el-barbori/en">
@@ -49,7 +49,7 @@
   <a href="https://www.kaggle.com/saelbar">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://leetcode.com/elbarborisalma/">
+  <a href="[https://leetcode.com/elbarborisalma/](https://leetcode.com/saelbar/)">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
