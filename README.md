@@ -49,7 +49,7 @@
   <a href="https://www.kaggle.com/saelbar">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="[https://leetcode.com/elbarborisalma/](https://leetcode.com/saelbar/)">
+  <a href="https://leetcode.com/saelbar/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
