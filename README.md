@@ -1,7 +1,6 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 I’m @salmaelbarbori
-- :hammer_and_wrench: I'm open to job opportunities starting from July  2024 in Data Science, ML, NLP, and Gen AI.
 - :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms | CRM.
 - :hammer_and_wrench: Head of Data/AI @CODE ESI.
 - 🌱 MSc Candidate in Competitive and Strategic Intelligence at @ESI | Rabat.
