@@ -1,10 +1,10 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 I’m @salmaelbarbori
-- :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms | CRM.
-- :hammer_and_wrench: Head of Data/AI @CODE ESI.
-- 🌱 MSc Candidate in Competitive and Strategic Intelligence at @ESI | Rabat.
-- :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, CRM, and NLP.
+- :hourglass:  Future is Loading...
+- :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms.
+- 🌱 BSc in Computer Engineering at @FST | Settat.
+- :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, and NLP.
 - 📫 Contact me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
   <!--- another section --->
@@ -19,7 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJs" alt="nodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="salesforce" alt="salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextJs" alt="nextJs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
@@ -28,7 +27,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="js" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WORDPRESS" alt="wp" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="TRELLO" alt="trello" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
