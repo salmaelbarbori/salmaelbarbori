@@ -1,9 +1,9 @@
 ### Who Am I ? :woman_technologist: 
 ---
 - 👋 I’m @salmaelbarbori
-- :hourglass:  Future is Loading...
-- :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Data Engineering | Problem-solving | Algorithms.
-- 🌱 BSc in Computer Engineering at @FST | Settat.
+- 💼:  AI Engineer/Tech Writer
+- 📚: Phd Candidate in Generative AI at @ENSIAS | Rabat.
+- :telescope: I’m interested in  Machine Learning | NLP | AI | Gen AI | Problem-solving | Algorithms.
 - :zap: I’m looking to collaborate on Open source projects related but not limited to  Machine Learning, Data Engineering, and NLP.
 - 📫 Contact me: 
 | <a href="https://ma.linkedin.com/in/salma-el-barbori/en"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SalmaELBARBRI's linkedin badge" alt="LinkedIn Badge" /></a> | <a href="https://mail.google.com/mail/u/salmaelbarbori@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> |
